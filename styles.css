@@ -65,6 +65,7 @@ nav > img {
     width: 200px;
     height: 250px;
     margin-bottom: 20px;
+    margin-right: 0;
     float: none;
     padding: 0;
 }
@@ -85,10 +86,12 @@ h3 {
 nav > h3 {
     text-align: center;
     margin: 0;
+    padding-right: 5%;
 }
 nav > h4 {
     text-align: center;
     margin: 0;
+    padding-right: 5%;
 }
 /*.item-details h2 {*/
 /*    display: list-item;*/
